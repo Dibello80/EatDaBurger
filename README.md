@@ -8,10 +8,10 @@ EatDaBurger is a restaurant app that lets users input the names of burgers they'
 
 ![burger-app](public/assets/img/Pulpburgershoot.png)
 
-## Demo
 
-EatDaBurger is hosted on Heroku. Check it out by [clicking here]
-(https://damp-oasis-84765.herokuapp.com/).
+## Deployed Link:
+[Note Taker App](https://damp-oasis-84765.herokuapp.com/)
+
 
 ## Getting Started
 
