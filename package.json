@@ -17,8 +17,14 @@
   },
   "homepage": "https://github.com/Dibello80/EatDaBurger#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "express-handlebars": "^5.2.0",
-    "mysql": "^2.18.1"
+    "method-override": "^3.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "node": "^15.4.0",
+    "sequelize-heroku": "^2.1.6"
   }
 }
