@@ -14,7 +14,7 @@ EatDaBurger is hosted on Heroku. Check it out by [clicking here]
 To use Eat-Da-Burger locally, use http://localhost:8080 after completing the following steps:
 
 ```js
-git clone git@github.com:fernandamarr/burger.git
+git clone https://github.com/Dibello80/EatDaBurger.git
 cd burger
 npm install
 node server.js
