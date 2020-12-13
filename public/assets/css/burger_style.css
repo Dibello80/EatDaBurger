@@ -1,12 +1,12 @@
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: rgb(251, 255, 22);
+    background-color: rgb(0, 0, 0);
 }
 
 .title {
     font-family: 'Sigmar One', cursive;
     font-size: 60px;
-    color: #000000;
+    color: #f5f5f5;
     padding: 20px;
 }
 
@@ -27,7 +27,7 @@ body {
     margin: 10px;
     height: 300px;
     overflow: auto;
-    background-color: #FE65B7;
+    background-color: #e4e70e;
 }
 
 .container {
@@ -45,7 +45,7 @@ body {
 .devoured-burgers {
     font-size: 20px;
     margin: 8px;
-    border: 2px solid #FE65B7;
+    border: 2px solid #e4e70e;
     padding: 3px;
 }
 
@@ -75,7 +75,7 @@ body {
     height: 50px;
     align-content: center;
     color: #000000;
-    background-color: #FE65B7;   
+    background-color: #e4e70e;   
 }
 
 #submit-burger {
